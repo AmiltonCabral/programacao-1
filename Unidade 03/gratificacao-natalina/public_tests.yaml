@@ -1,0 +1,19 @@
+- input: |
+    1
+  output: |
+    Deverá receber em dezembro R$ 25000.00.
+
+- input: |
+    5
+    0
+  output: |
+    Valor da gratificação R$ 200.00.
+    Deverá receber em dezembro R$ 3000.00.
+
+- input: |
+    4
+    10
+  output: |
+    Valor da gratificação R$ 225.00.
+    Deverá receber em dezembro R$ 5225.00.
+

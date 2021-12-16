@@ -1,0 +1,36 @@
+- input: |
+    78
+    23
+    85
+    17
+    72
+    22
+    65
+    28
+  output: |
+    O Time A ganhou do Time B.
+
+- input: |
+    70
+    22
+    50
+    20
+    74
+    20
+    43
+    30
+  output: |
+    O Time B ganhou do Time A.
+
+- input: |
+    75
+    23
+    85
+    17
+    75
+    23
+    85
+    17
+  output: |
+    Os dois times terminaram empatados.
+

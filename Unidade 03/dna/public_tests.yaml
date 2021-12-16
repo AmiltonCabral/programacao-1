@@ -1,0 +1,14 @@
+- input: |
+    AGCT
+    TTTGGA
+    ACT
+  output: |
+    ACT 3
+
+- input: |
+    CCGG
+    CCAA
+    ACTGGG
+  output: |
+    CCGG 4
+

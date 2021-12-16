@@ -1,0 +1,24 @@
+- input: |
+    Carmita
+    24
+    09
+    1989
+    Maroca
+    12
+    09
+    1995
+  output: |
+    Carmita
+
+- input: |
+    Carol
+    20
+    12
+    2001
+    Marcos
+    20
+    12
+    2001
+  output: |
+    nenhuma
+
