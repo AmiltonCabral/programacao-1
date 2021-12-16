@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "public_tests.py",
+    "acceptance_tests.py"
+  ],
+  "tests": [],
+  "title": "Lista de Compras"
+}

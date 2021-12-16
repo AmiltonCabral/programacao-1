@@ -1,0 +1,11 @@
+Só subtrai se for maior ou igual a 9
+So para de subtrair quando for menor que 9
+Se for menor que 9 Recria a lista com a soma no começo
+Re-cria a lista com o novo valor no começo da lista
+
+Se for >= 9:
+
+
+Else:
+
+
