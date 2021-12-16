@@ -1,0 +1,36 @@
+- input: |
+    cadastrar
+    022.222.333-99
+    Antoine
+    Posto 15
+    cadastrar
+    011.233.567.78
+    Josephine
+    Posto 1
+    finalizar
+  output: |
+    Usuário cadastrado com sucesso.
+    Usuário cadastrado com sucesso.
+
+- input: |
+    cadastrar
+    022.222.333-99
+    Antoine
+    Posto 15
+    consultar
+    022.222.333-99
+    finalizar
+  output: |
+    Usuário cadastrado com sucesso.
+    Nome: Antoine
+    CPF: 022.222.333-99
+    Saldo: 300.00
+
+- input: |
+    atualizar
+    022.222.333-80
+    Posto 15
+    finalizar
+  output: |
+    Usuário inexistente.
+

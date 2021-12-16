@@ -1,0 +1,10 @@
+- input: |
+    zumbi Zeca Recife
+  output: |
+    2
+
+- input: |
+    livro cd Software
+  output: |
+    0
+

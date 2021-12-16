@@ -1,0 +1,23 @@
+- input: |
+    José azul
+    Joana verde
+    Tonho vermelho
+    Maria laranja
+    Severino vermelho
+    Ana vermelho 
+    fim
+  output: |
+    Tonho
+    Severino
+    Ana
+    Maria
+    Joana
+    José
+    ---
+    vermelho: 3
+    laranja: 1
+    amarelo: 0
+    verde: 1
+    azul: 1
+    ---
+

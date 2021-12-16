@@ -1,0 +1,18 @@
+- input: |
+    p: -5 0 2 0 3
+    10
+    2
+    0
+    p: 3 1
+    100
+    8
+    fim
+  output: |
+    novo polinomio
+    30195
+    51
+    -5
+    novo polinomio
+    103
+    11
+

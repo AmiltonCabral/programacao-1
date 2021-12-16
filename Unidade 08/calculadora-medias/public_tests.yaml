@@ -1,0 +1,30 @@
+- input: |
+    MA
+    6 2 7 9
+    MG
+    4 6 9
+    MH
+    2 6 8
+    Q
+  output: |
+    Média Aritmética: 6.0000
+    ----
+    Média Geométrica: 6.0000
+    ----
+    Média Harmônica: 3.7895
+    ----
+
+- input: |
+    MG MA
+    1.2 1.12 1.07
+    MH MG
+    2 6 8
+    Q
+  output: |
+    Média Geométrica: 1.1287
+    Média Aritmética: 1.1300
+    ----
+    Média Harmônica: 3.7895
+    Média Geométrica: 4.5789
+    ----
+

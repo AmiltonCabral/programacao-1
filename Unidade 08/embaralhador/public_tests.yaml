@@ -1,0 +1,18 @@
+- input: |
+    A 2 3 4 5
+    I
+    fim
+  output: |
+    2 A 4 3 5
+
+- input: |
+    K 2 7
+    GD
+    GD
+    GE
+    fim
+  output: |
+    2 7 K
+    7 K 2
+    2 7 K
+

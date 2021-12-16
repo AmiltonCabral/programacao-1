@@ -1,0 +1,38 @@
+- input: |
+    inserir
+    3
+    juca
+    21011515
+    abel
+    21023333
+    carlos
+    21108990
+    buscar
+    pedro
+    buscar
+    abel
+    inserir
+    1
+    carlos
+    21210087
+    imprimir
+    finalizar
+  output: |
+    Nome inexistente
+    ----------
+    Nome: abel
+    Fone: 21023333
+    ----------
+    Nome: abel
+    Fone: 21023333
+    ----------
+    Nome: carlos
+    Fone: 21108990
+    ----------
+    Nome: carlos
+    Fone: 21210087
+    ----------
+    Nome: juca
+    Fone: 21011515
+    ----------
+

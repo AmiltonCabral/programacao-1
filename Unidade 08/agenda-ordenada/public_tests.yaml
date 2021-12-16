@@ -1,0 +1,30 @@
+- input: |
+    vicente
+    bianca
+    carlos
+    antonio
+    zelia
+    ####
+  name: exemplo1
+  output: |
+    * vicente
+    ----
+    * bianca
+    vicente
+    ----
+    bianca
+    * carlos
+    vicente
+    ----
+    * antonio
+    bianca
+    carlos
+    vicente
+    ----
+    antonio
+    bianca
+    carlos
+    vicente
+    * zelia
+    ----
+
