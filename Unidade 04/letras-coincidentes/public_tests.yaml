@@ -1,0 +1,8 @@
+- input: |
+    gato
+    sapato
+  output: |
+    Letras coincidentes
+    'a' na posição 2
+    Total de letras coincidentes: 1 (10%)
+

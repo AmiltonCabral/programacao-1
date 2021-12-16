@@ -1,0 +1,42 @@
+- input: |
+    5
+    teste
+    exemplo
+    palavra
+    contador
+    alfabetica
+    palavra
+  name: test_name
+  output: |
+    ---
+    3 antes
+    1 depois
+
+- input: |
+    5
+    teste
+    exemplo
+    palavra
+    contador
+    alfabetica
+    teste
+  name: test_name
+  output: |
+    ---
+    4 antes
+    0 depois
+
+- input: |
+    5
+    teste
+    exemplo
+    palavra
+    contador
+    alfabetica
+    buscar
+  name: test_name
+  output: |
+    ---
+    1 antes
+    4 depois
+

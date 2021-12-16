@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "utils.py"
+  ],
+  "tests": [],
+  "title": "Dígitos Repetidos"
+}

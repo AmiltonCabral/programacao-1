@@ -1,0 +1,7 @@
+- input: |
+    um exemplo de frase
+    1
+    12
+  output: |
+    m , e x e m p l o , d
+

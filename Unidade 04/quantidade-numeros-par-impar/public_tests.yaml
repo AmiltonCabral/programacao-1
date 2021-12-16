@@ -1,0 +1,13 @@
+- input: |
+    5
+    4
+    3
+    6
+    8
+    11
+  output: |
+    pares: 3
+    ímpares: 2
+    média pares: 6.0
+    média ímpares: 7.0
+

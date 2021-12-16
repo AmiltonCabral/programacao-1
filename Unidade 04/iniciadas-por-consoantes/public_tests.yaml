@@ -1,0 +1,23 @@
+- input: |
+    7
+    quantas
+    destas
+    palavras
+    sao
+    iniciadas
+    por
+    consoantes
+  output: |
+    total de palavras: 7
+    iniciadas por consoantes: 6 (85.71%)
+
+- input: |
+    4
+    Alvaro
+    iniciadas
+    por
+    onsoantes
+  output: |
+    total de palavras: 4
+    iniciadas por consoantes: 1 (25.00%)
+
