@@ -1,0 +1,12 @@
+- input: |
+    220
+  output: |
+    Serão necessárias 0 página(s) para visualizar os tweets.
+    100.0% dos tweets serão perdidos.
+
+- input: |
+    440
+  output: |
+    Serão necessárias 1 página(s) para visualizar os tweets.
+    9.1% dos tweets serão perdidos.
+

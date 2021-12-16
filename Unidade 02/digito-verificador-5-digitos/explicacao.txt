@@ -1,0 +1,5 @@
+Eu não sei se podia usar map() mas eu não lembrei de outra forma,
+procurei no site da disciplina mas não achei nada ensinando a 
+fazer uma lista com inteiros. Então usei esse método com map(), 
+se não puder usar isso no miniteste me avisa como deveria ser 
+feito pra eu aprender a forma que você queria.

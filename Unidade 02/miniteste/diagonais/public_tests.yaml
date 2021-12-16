@@ -1,0 +1,11 @@
+#- type: script
+#  name: design tests
+#  script: python design_tests.py {}
+
+- input: |
+    3
+  name: triangulo
+  output: |
+    3 lados => 0 diagonais
+
+# public file

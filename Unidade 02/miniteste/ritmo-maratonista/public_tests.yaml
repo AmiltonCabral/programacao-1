@@ -1,0 +1,12 @@
+- input: |
+    10.0
+    60
+  output: |
+    O ritmo do maratonista foi 6.00 min/km.
+
+- input: |
+    42.2
+    180
+  output: |
+    O ritmo do maratonista foi 4.27 min/km.
+
