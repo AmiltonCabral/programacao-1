@@ -1,0 +1,11 @@
+- input: |
+    C O 2
+    H 2 O
+    C 12 H 22 O 11
+    fim
+  name: exemplo 1
+  output: |
+    44
+    18
+    342
+
