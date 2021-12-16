@@ -1,0 +1,9 @@
+- input: |
+    Mouse
+    casa
+    exemplo
+    Outra
+    lapis
+  output: |
+    3
+

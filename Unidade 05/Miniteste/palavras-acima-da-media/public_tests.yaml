@@ -1,0 +1,9 @@
+- input: |
+    UFCG
+    Universidade
+    Programação
+    fim
+  output: |
+    9.00
+    2 Universidade
+    3 Programação

@@ -1,0 +1,15 @@
+- input: |
+    umachave
+  output: |
+    Chave segura!
+
+- input: |
+    alomundominhachavenaoehsegura
+  output: |
+    Chave insegura. 6 vogais.
+
+- input: |
+    oijjjminhachave
+  output: |
+    Chave insegura. 3 caracteres consecutivos iguais.
+

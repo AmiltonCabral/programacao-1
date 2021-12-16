@@ -1,0 +1,12 @@
+# ATENÇÃO: usar `|+` nos inputs para garantir que a linha em
+#          branco seja corretamente expressa em yaml
+- input: |+
+    10 10
+    11 j
+    5 l
+    8 h
+    
+  output: |
+    [21 10]
+    [21 15]
+    [21 7]
