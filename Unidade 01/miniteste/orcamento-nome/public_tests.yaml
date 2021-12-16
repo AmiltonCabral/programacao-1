@@ -1,0 +1,7 @@
+- input: |
+    Carolina
+    10
+  name: exemplo
+  output: |
+    Nome? Valor da letra (R$)? Preço final: R$ 80.00
+

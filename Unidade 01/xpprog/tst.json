@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    "text.md",
+    "public_tests.yaml",
+    "tst.yaml"
+  ],
+  "tests": [],
+  "extensions": [
+    ".md",
+    ".txt",
+    ".yaml"
+  ],
+  "title": "Experiência em Programação"
+}

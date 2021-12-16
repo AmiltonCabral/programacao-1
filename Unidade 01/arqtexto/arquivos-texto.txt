@@ -1,0 +1,4 @@
+Em arquivos de texto, os dados são representados linha a linha,
+para ocorrer uma quebra de linha usa-se \n. Todos os dados são
+representados por caracteres. Enquanto no arquivo binário os
+dados são representados em sequência, seguindo uma linha só.
